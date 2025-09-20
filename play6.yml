@@ -1,4 +1,4 @@
----
+#ramu
 - name: demonstrate file module
   hosts: localhost
   become: true
@@ -7,7 +7,7 @@
      file:
        path: /etc/PicsDir
        state: directory
-      # state: absent
+       # state: absent
        owner: root
        group: ansible
        mode: '0750'
