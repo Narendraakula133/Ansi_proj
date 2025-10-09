@@ -1,4 +1,4 @@
-#akka hiii alx---
+akka hiii alx---
 - name: My First Playbook
   hosts: sapprod
   become: true
