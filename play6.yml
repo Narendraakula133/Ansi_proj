@@ -1,4 +1,5 @@
-- name: demonstrate file module
+- this git contain so many conflict how to remove this conflicts
+name: demonstrate file module
   hosts: localhost
   become: true
   tasks:
