@@ -1,7 +1,3 @@
----
-- name: shutdown server
-  hosts: all
-  become: yes
-  tasks: 
-    - name: shutdown the server
-hello everyone
+#!/bin/bash
+echo "this is the sample file"
+#End
