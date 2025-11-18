@@ -1,3 +1,4 @@
+ur playbook 
 ---
 - name: Configure firewall with firewalld
   hosts: all
