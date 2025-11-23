@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "this is the sample file"
+echo "todays date is "
+date > mm.txt
+lsblk >> mm.txt
+#End
